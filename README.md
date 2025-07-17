@@ -50,5 +50,7 @@ Flagged low-selling products/categories, helping management decide on discounts,
 Analysis of daily and monthly trends helped understand seasonal demand and customer buying patterns.
 5.Data-Driven Decision Making
 Empowered leadership with a real-time dashboard to monitor KPIs, make informed decisions, and respond to market changes quickly.
-SNAPSHORT
+SNAPSHORT:
 Show what the dashboard look like.
+https://github.com/Nidhis28/blinkit-dashboard/blob/main/Capture.PNG
+
