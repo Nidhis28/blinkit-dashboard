@@ -27,23 +27,23 @@ Blinkit, positioned as "India’s Last Minute App," delivers groceries and essen
    
  *Top Performing Items:*
  
-  Fruits & Vegetables: $178K
+   Fruits & Vegetables: $178K
   
-  Snack Foods: $175K
+   Snack Foods: $175K
   
-  Frozen Foods: $118K
+   Frozen Foods: $118K
 
 🔹 Outlet Analysis
 
-   *Outlet Size with Highest Sales:* Tier 3 – $472K
+   Outlet Size with Highest Sales:* Tier 3 – $472K
    
-   *Outlet Location with Highest Sales:* Tier 3 – $472K
+   Outlet Location with Highest Sales:* Tier 3 – $472K
    
-   *Outlet Type Performance:*
+   Outlet Type Performance:*
    
-   *Supermarket Type1:* Highest Sales at $787M and high visibility
+   Supermarket Type1: Highest Sales at $787M and high visibility
    
-   *Grocery Store:* Highest number of items (1083)
+   Grocery Store: Highest number of items (1083)
 
 🔹 Time Trend Analysis
 
