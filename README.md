@@ -49,8 +49,8 @@ This dashboard empowers stakeholders to answer key business questions such as:
 
 📅 Temporal Trend
 
-   -  Peak outlet establishment year: 2019  
-   -  Investment in 2019: $250K  
+    . Peak outlet establishment year: 2019  
+    . Investment in 2019: $250K  
 
 
 
