@@ -8,21 +8,26 @@ Blinkit, positioned as "India’s Last Minute App," delivers groceries and essen
 📌 Key Highlight
 
 🔹 Total KPIs
+
    *Total Sales:* $1.20B
    *Number of Items Sold:* 9,000
    *Average Sales per Item:* $141
    *Average Customer Rating:* 4 / 5
 
 🔹 Sales Distribution
-   *Fat Content*:
-    Low Fat: $776.32K
-    Regular: $425.36K
+
+   Fat Content*:
+   Low Fat: $776.32K
+   Regular: $425.36K
+   
  *Top Performing Items:*
+ 
   Fruits & Vegetables: $178K
   Snack Foods: $175K
   Frozen Foods: $118K
 
 🔹 Outlet Analysis
+
    *Outlet Size with Highest Sales:* Tier 3 – $472K
    *Outlet Location with Highest Sales:* Tier 3 – $472K
    *Outlet Type Performance:*
@@ -30,15 +35,18 @@ Blinkit, positioned as "India’s Last Minute App," delivers groceries and essen
    *Grocery Store:* Highest number of items (1083)
 
 🔹 Time Trend Analysis
+
    Yearly establishment trend shows a peak in 2019 with $250K invested in outlet establishments.
 
 🎯 Business Use-Cases
+
    Identify high-performing product categories and outlet types
    Monitor outlet visibility and customer ratings
    Target marketing and expansion strategies by outlet tier and location
    Evaluate customer preference based on fat content and item types
 
 📁 File Details
+
    *Power BI Report:* Interactive dashboard with filters for outlet type, size, and location
    *Data Filters Included:*
   - Outlet Location Type
@@ -54,19 +62,3 @@ Blinkit, positioned as "India’s Last Minute App," delivers groceries and essen
 
 
 
-
-
- 🚀 Future Enhancements
-- Integration with real-time APIs to show live metrics
-- Drill-down reports for outlet managers
-- Predictive analytics for item restocking and demand forecasting
-
- 🤝 Acknowledgements
-This project is inspired by the idea of using visual analytics to drive data-based decisions for quick commerce platforms like Blinkit.
-
-📬 Contact
-Created by: Nidhi Singh 
-
-Linkedin: https://www.linkedin.com/in/nidhi-singh-3708461a0
-
-Email:nidhisingh12726@gmail.com
