@@ -1,79 +1,75 @@
-Blinkit Sales Dashboard 📊
+🛒 Blinkit Grocery Sales Dashboard
 
-Overview:
+ 📊 Project Overview
 
-This Power BI dashboard presents an in-depth analysis of Blinkit's sales data, offering insights into total sales, item performance, outlet behavior, customer preferences, and regional trends.
-Blinkit, positioned as "India’s Last Minute App," delivers groceries and essential items to customers quickly. This dashboard is built to support business and strategic decisions based on data.
+The Blinkit Grocery Sales Dashboard is an advanced business intelligence solution developed using **Power BI** to analyze and visualize large-scale sales data from Blinkit, India’s rapid grocery delivery platform. The report uncovers insights into product category performance, outlet segmentation, customer ratings, and sales trends—enabling data-driven decisions across operations, marketing, and strategic planning.
 
-📌 Key Highlight
+This dashboard empowers stakeholders to answer key business questions such as:
 
-🔹 Total KPIs
+ .Which outlet types and sizes generate the highest sales?
+ .What item categories are most preferred by customers?
+ .How does fat content influence product sales?
+ .What trends are visible in outlet establishment over time?
 
-   *Total Sales:* $1.20B
-   
-   *Number of Items Sold:* 9,000
-   
-   *Average Sales per Item:* $141
-   
-   *Average Customer Rating:* 4 / 5
 
-🔹 Sales Distribution
 
-   Fat Content*:
-   
-   Low Fat: $776.32K
-   
-   Regular: $425.36K
-   
- *Top Performing Items:*
- 
-   Fruits & Vegetables: $178K
-  
-   Snack Foods: $175K
-  
-   Frozen Foods: $118K
+ 📌 Key Performance Indicators (KPIs)
 
-🔹 Outlet Analysis
+| Metric                    | Value     |
+|---------------------------|-----------|
+| 💰 Total Sales            | 1.20 Billion |
+| 📦 Items Sold             | 9,000     |
+| 📊 Avg. Sales per Item    | 141      |
+| ⭐ Avg. Customer Rating   | 4.0 / 5   |
 
-   Outlet Size with Highest Sales:* Tier 3 – $472K
-   
-   Outlet Location with Highest Sales:* Tier 3 – $472K
-   
-   Outlet Type Performance:*
-   
-   Supermarket Type1: Highest Sales at $787M and high visibility
-   
-   Grocery Store: Highest number of items (1083)
 
-🔹 Time Trend Analysis
 
-   Yearly establishment trend shows a peak in 2019 with $250K invested in outlet establishments.
+🔍 Deep-Dive Insights:
 
-🎯 Business Use-Cases
+  📈 Sales by Fat Content
 
-   Identify high-performing product categories and outlet types
-   
-   Monitor outlet visibility and customer ratings
-   
-   Target marketing and expansion strategies by outlet tier and location
-   
-   Evaluate customer preference based on fat content and item types
+- **Low Fat**: $776.32K  
+- **Regular**: $425.36K  
 
-📁 File Details
+🥇 Top Performing Item Categories
 
-   *Power BI Report:* Interactive dashboard with filters for outlet type, size, and location
-   
-   *Data Filters Included:*
-   
-  - Outlet Location Type
-  
-  - Outlet Size
-  
-  - Fat Content
-  
-  - Item Types
-  
-  - Outlet Type Performance
+   Fruits & Vegetables: $178K  
+   Snack Foods: $175K  
+   Frozen Foods: $118K  
+
+🏬 Outlet Analysis
+
+   Highest Sales by Outlet Size: Tier 3 – $472K  
+   Highest Sales by Location Type: Tier 3 – $472K  
+   Supermarket Type1: $787M in total sales; high visibility  
+   Grocery Store: 1,083 items sold; widest variety  
+
+📅 Temporal Trend
+
+   Peak outlet establishment year: 2019  
+   Investment in 2019: $250K  
+
+
+
+🎯 Business Applications
+
+   1.Optimize outlet expansion and investment strategy  
+   2.Segment product offerings based on performance and customer preference  
+   3.Enhance marketing campaigns using regional and product-level insights  
+   4.Monitor customer satisfaction through rating trends  
+   5.Leverage fat content data to adjust product mix  
+
+
+
+ 🧰 Tech Stack
+
+  *Power BI – Data modeling, dashboard development  
+  *Excel / CSV – Data preprocessing and input  
+  *GitHub – Version control and project hosting  
+
+
+
+ 
 
 📷 Screenshot
 
