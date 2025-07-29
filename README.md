@@ -7,8 +7,11 @@ The Blinkit Grocery Sales Dashboard is an advanced business intelligence solutio
 This dashboard empowers stakeholders to answer key business questions such as:
 
  .Which outlet types and sizes generate the highest sales?
+ 
  .What item categories are most preferred by customers?
+ 
  .How does fat content influence product sales?
+ 
  .What trends are visible in outlet establishment over time?
 
 
@@ -28,8 +31,8 @@ This dashboard empowers stakeholders to answer key business questions such as:
 
   📈 Sales by Fat Content
 
-- **Low Fat**: $776.32K  
-- **Regular**: $425.36K  
+     Low Fat: $776.32K  
+     Regular: $425.36K  
 
 🥇 Top Performing Item Categories
 
