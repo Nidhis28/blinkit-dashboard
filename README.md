@@ -6,13 +6,13 @@ The Blinkit Grocery Sales Dashboard is an advanced business intelligence solutio
 
 This dashboard empowers stakeholders to answer key business questions such as:
 
- .Which outlet types and sizes generate the highest sales?
+  .Which outlet types and sizes generate the highest sales?
  
- .What item categories are most preferred by customers?
+  .What item categories are most preferred by customers?
  
- .How does fat content influence product sales?
+  .How does fat content influence product sales?
  
- .What trends are visible in outlet establishment over time?
+  .What trends are visible in outlet establishment over time?
 
 
 
