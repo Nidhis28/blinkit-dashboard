@@ -42,10 +42,10 @@ This dashboard empowers stakeholders to answer key business questions such as:
 
 🏬 Outlet Analysis
 
-  1.Highest Sales by Outlet Size: Tier 3 – $472K  
-  2.Highest Sales by Location Type: Tier 3 – $472K  
-  3.Supermarket Type1: $787M in total sales; high visibility  
-  4.Grocery Store: 1,083 items sold; widest variety  
+    1. Highest Sales by Outlet Size: Tier 3 – $472K  
+    2. Highest Sales by Location Type: Tier 3 – $472K  
+    3. Supermarket Type1: $787M in total sales; high visibility  
+    4. Grocery Store: 1,083 items sold; widest variety  
 
 📅 Temporal Trend
 
