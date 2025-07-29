@@ -64,6 +64,6 @@ Blinkit, positioned as "India’s Last Minute App," delivers groceries and essen
 This project is inspired by the idea of using visual analytics to drive data-based decisions for quick commerce platforms like Blinkit.
 
 📬 Contact
-Created by: Nidhi Singh 
-Linkedin: https://www.linkedin.com/in/nidhi-singh-3708461a0
-Email: nidhisingh12726@gmail.com
+Created by:Nidhi Singh 
+Linkedin:https://www.linkedin.com/in/nidhi-singh-3708461a0
+Email:nidhisingh12726@gmail.com
