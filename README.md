@@ -56,11 +56,11 @@ This dashboard empowers stakeholders to answer key business questions such as:
 
 🎯 Business Applications
 
-   1.Optimize outlet expansion and investment strategy  
-   2.Segment product offerings based on performance and customer preference  
-   3.Enhance marketing campaigns using regional and product-level insights  
-   4.Monitor customer satisfaction through rating trends  
-   5.Leverage fat content data to adjust product mix  
+    1.Optimize outlet expansion and investment strategy  
+    2.Segment product offerings based on performance and customer preference  
+    3.Enhance marketing campaigns using regional and product-level insights  
+    4.Monitor customer satisfaction through rating trends  
+    5.Leverage fat content data to adjust product mix  
 
 
 
