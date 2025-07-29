@@ -1,5 +1,7 @@
 Blinkit Sales Dashboard 📊
+
 Overview:
+
 This Power BI dashboard presents an in-depth analysis of Blinkit's sales data, offering insights into total sales, item performance, outlet behavior, customer preferences, and regional trends.
 Blinkit, positioned as "India’s Last Minute App," delivers groceries and essential items to customers quickly. This dashboard is built to support business and strategic decisions based on data.
 
@@ -64,5 +66,7 @@ This project is inspired by the idea of using visual analytics to drive data-bas
 
 📬 Contact
 Created by: Nidhi Singh 
+
 Linkedin: https://www.linkedin.com/in/nidhi-singh-3708461a0
+
 Email:nidhisingh12726@gmail.com
